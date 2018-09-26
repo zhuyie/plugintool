@@ -1,2 +1,2 @@
 # plugintool
-golang plugin tool
+A small program which can extract PluginPath and pkghashes from golang ELF binary.
